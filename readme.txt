@@ -1,0 +1,1 @@
+Untuk penyimpanan antar device BAS
