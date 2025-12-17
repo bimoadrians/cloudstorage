@@ -1,2 +1,2 @@
-Email	: undanganper@gmail.com
-Pass	: jerkinson05
+Email		: undanganper@gmail.com
+Password	: jerkinson05
